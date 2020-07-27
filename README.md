@@ -13,3 +13,6 @@ Add as a Global Library in
 ```
 KiCAD > Preferences > Manage Footprint Libraries 
 ```
+
+# 3D Models Library
+@Kristine - HOW TO ADD
