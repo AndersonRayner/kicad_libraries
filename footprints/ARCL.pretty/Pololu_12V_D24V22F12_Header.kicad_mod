@@ -1,4 +1,4 @@
-(module Pololu_12V_D24V22F12_Header (layer F.Cu) (tedit 5F1A2629)
+(module Pololu_12V_D24V22F12_Header (layer F.Cu) (tedit 5F21EEEE)
   (fp_text reference REF** (at 8.89 -5.08) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -19,9 +19,9 @@
   (fp_line (start 2.5492 -12.7234) (end 4.0692 -12.7234) (layer F.SilkS) (width 0.12))
   (fp_line (start 2.5492 -13.2934) (end 2.5492 -12.7234) (layer F.SilkS) (width 0.12))
   (fp_line (start -2.2816 -8.636) (end -2.2816 -13.7688) (layer F.CrtYd) (width 0.05))
-  (fp_line (start 4.6692 -13.7434) (end 4.6692 -8.636) (layer F.CrtYd) (width 0.05))
+  (fp_line (start 4.6692 -13.7688) (end 4.6692 -8.636) (layer F.CrtYd) (width 0.05))
   (fp_line (start 4.6692 -8.636) (end -2.286 -8.636) (layer F.CrtYd) (width 0.05))
-  (fp_line (start -2.2816 -13.7688) (end 4.6184 -13.7688) (layer F.CrtYd) (width 0.05))
+  (fp_line (start -2.2816 -13.7688) (end 4.6692 -13.7688) (layer F.CrtYd) (width 0.05))
   (fp_line (start 0 0) (end 0 -17.78) (layer F.SilkS) (width 0.12))
   (fp_line (start 0 -17.8) (end 17.8 -17.8) (layer F.SilkS) (width 0.12))
   (fp_line (start 17.8 -17.8) (end 17.8 0) (layer F.SilkS) (width 0.12))
@@ -78,8 +78,8 @@
   (pad 4 smd rect (at 8.89 0.385 90) (size 2.51 1) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 6.35 -2.925 90) (size 2.51 1) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 2.8742 -11.9634) (size 2.51 1) (layers F.Cu F.Paste F.Mask))
-  (model C:/Users/kchel/Documents/kicad_libraries/footprints/ARCL.pretty/models/Pololu_D24V22F12.STEP
-    (offset (xyz 8.9 8.9 2.5))
+  (model ${ARCL3DMOD}/Pololu_D24V22F12.STEP
+    (offset (xyz 8.9 8.824999999999999 2.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))
   )
