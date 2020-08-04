@@ -15,4 +15,7 @@ KiCAD > Preferences > Manage Footprint Libraries
 ```
 
 # 3D Models Library
-@Kristine - HOW TO ADD
+Add as an Environment Variable in
+```
+KiCAD > Preferences > Configure Paths 
+```
