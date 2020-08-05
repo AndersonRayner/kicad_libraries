@@ -15,7 +15,12 @@ KiCAD > Preferences > Manage Footprint Libraries
 ```
 
 # 3D Models Library
-Add as an Environment Variable in
+For the libraries to find the 3D models, you'll need to add an environment variable that points to the 3D models folder.  Go to 
 ```
-KiCAD > Preferences > Configure Paths 
+KiCAD > Preferences > Configure Paths
 ```
+and add the variable
+```
+ARCL3DMOD
+```
+linking it to 'kical_libraries/3D_models'
