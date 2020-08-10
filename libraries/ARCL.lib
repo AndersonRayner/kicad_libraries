@@ -571,6 +571,19 @@ X 2_OUT2 4 -1100 1850 200 R 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
+# afa_logo
+#
+DEF afa_logo AFA 0 40 Y Y 1 F N
+F0 "AFA" 0 0 50 H V C CNN
+F1 "afa_logo" 0 0 50 H V C CNN
+F2 "ARCL:afa_logo" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+T 0 0 0 50 0 0 0 "AFA Logo" Normal 0 C C
+S -250 100 250 -100 0 0 0 N
+ENDDRAW
+ENDDEF
+#
 # simplertk2blite
 #
 DEF simplertk2blite U 0 40 Y Y 1 F N
