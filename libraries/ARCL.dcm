@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ILD6070XUMA1
+D LED Driver for Buck LEDs 60V 700mA DSO8
+F https://www.infineon.com/dgdl/Infineon-ILD6070-DS-v03_02-en.pdf?fileId=db3a30433d1d0bbe013d206b623716d8
+$ENDCMP
+#
 $CMP Pololu_Regulator
 F https://www.pololu.com/product/2855
 $ENDCMP
