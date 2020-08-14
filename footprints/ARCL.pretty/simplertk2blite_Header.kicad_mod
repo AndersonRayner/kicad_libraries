@@ -139,7 +139,7 @@
   (pad 19 smd rect (at 13.0114 10.2974) (size 2.35 0.85) (layers F.Cu F.Paste F.Mask))
   (pad 17 smd rect (at 13.0114 14.2974) (size 2.35 0.85) (layers F.Cu F.Paste F.Mask))
   (model ${ARCL3DMOD}/simpleRTK2Blite.STEP
-    (offset (xyz 0.8 -12.65 2.5))
+    (offset (xyz 0.8 -12.65 2.54))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )

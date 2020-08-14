@@ -30,4 +30,9 @@
   (pad 4 thru_hole circle (at -10.176 14.281) (size 1.008 1.008) (drill 0.5) (layers *.Cu *.Mask))
   (pad 17 thru_hole circle (at 11.824 14.281) (size 1.008 1.008) (drill 0.5) (layers *.Cu *.Mask))
   (pad 18 thru_hole circle (at 11.824 12.281) (size 1.008 1.008) (drill 0.5) (layers *.Cu *.Mask))
+  (model ${ARCL3DMOD}/simpleRTK2Blite.STEP
+    (offset (xyz 0.8 -12.65 2.54))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
